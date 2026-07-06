@@ -2,12 +2,11 @@
 
 ## Project Overview
 
-This project presents an end-to-end e-commerce data analysis of the Olist dataset using SQL, Python, and Power BI. The objective is to analyze sales performance, customer distribution, product performance, payment behavior, and key business trends through an interactive dashboard.
+This project presents an end-to-end e-commerce data analysis of the Olist dataset using SQL and Power BI. The objective is to analyze sales performance, customer distribution, product performance, payment behavior, and key business trends through an interactive dashboard.
 
 ## Tools & Technologies
 
 - SQL
-- Python
 - Power BI
 - DAX
 - Data Analysis
