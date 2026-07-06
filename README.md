@@ -60,7 +60,7 @@ Provides detailed sales and product insights, including:
 - The business generated approximately 16.01M in total revenue.
 - Around 99K orders were recorded from approximately 96K unique customers.
 - Credit card is the dominant payment method.
-- São Paulo represents the largest customer and order market.
+- São Paulo represents the largest market in terms of customers and orders.
 - Revenue shows significant monthly fluctuations, with a notable decline around September.
 - A small group of product categories contributes a significant share of overall revenue.
 - Customer review scores are predominantly high, with score 5 being the most common.
