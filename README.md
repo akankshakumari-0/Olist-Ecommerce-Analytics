@@ -1,4 +1,4 @@
-# Olist E-Commerce Analytics Dashboard
+# Olist E-Commerce Analytics
 
 ## Project Overview
 
